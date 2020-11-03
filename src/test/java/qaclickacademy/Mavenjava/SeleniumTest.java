@@ -10,8 +10,13 @@ public class SeleniumTest {
 		
 	}
 	@Test
-	public void elementsUi() {
-		System.out.println("ElementsUi");
+	public void elementsUi1() {
+		System.out.println("ElementsUi1");
+		
+	}
+	@Test
+	public void elementsUi2() {
+		System.out.println("ElementsUi2");
 		
 	}
 
